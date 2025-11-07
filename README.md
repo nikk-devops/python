@@ -1,4 +1,4 @@
-Python continues to be one of the most strategic skills for DevOps engineers, and this will remain true well beyond 2026.
+**Python continues to be one of the most strategic skills for DevOps engineers, and this will remain true well beyond 2026.**
 
 Let’s break it down step by step so you can clearly see:
 
