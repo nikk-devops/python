@@ -1,0 +1,4 @@
+This is a learning document for python, here the python
+is very important to learn in these days.
+python is one of the most demanding lanugages in the world
+Python is being used in AI,ML,Cloud etc
